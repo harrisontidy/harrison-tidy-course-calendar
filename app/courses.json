@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "code": "CPEN 281",
+    "title": "Technical Communication",
+    "term": 1,
+    "section": "CPEN 281-101",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Hartaj Sanghara",
+    "credits": 3,
+    "patterns": [
+      {
+        "start": "2026-09-09",
+        "end": "2026-12-07",
+        "days": [
+          0,
+          2,
+          4
+        ],
+        "alternate": false,
+        "fromMin": 780,
+        "toMin": 840,
+        "building": "School of Population & Public Health (SPPH)",
+        "floor": "-1",
+        "room": "B108"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "code": "MATH 253",
+    "title": "Multivariable Calculus",
+    "term": 1,
+    "section": "MATH 253-10R",
+    "kind": "Lecture",
+    "delivery": "Hybrid Learning",
+    "instructor": "Mark Mac Lean",
+    "credits": 3,
+    "patterns": [
+      {
+        "start": "2026-09-09",
+        "end": "2026-12-07",
+        "days": [
+          0,
+          2,
+          4
+        ],
+        "alternate": false,
+        "fromMin": 660,
+        "toMin": 720,
+        "building": "",
+        "floor": "",
+        "room": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "CPEN 211",
+    "title": "Computing Systems I",
+    "term": 1,
+    "section": "CPEN 211-101",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Guy Lemieux",
+    "credits": 5,
+    "patterns": [
+      {
+        "start": "2026-09-08",
+        "end": "2026-12-03",
+        "days": [
+          1,
+          3
+        ],
+        "alternate": false,
+        "fromMin": 930,
+        "toMin": 1050,
+        "building": "CIRS (Centre for Interactive Research on Sustainability) (CIRS)",
+        "floor": "1",
+        "room": "1250"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "CPEN 211",
+    "title": "Computing Systems I",
+    "term": 1,
+    "section": "CPEN 211-L1A",
+    "kind": "Laboratory",
+    "delivery": "In Person Learning",
+    "instructor": "Guy Lemieux",
+    "credits": 5,
+    "patterns": [
+      {
+        "start": "2026-09-10",
+        "end": "2026-12-03",
+        "days": [
+          3
+        ],
+        "alternate": false,
+        "fromMin": 780,
+        "toMin": 900,
+        "building": "Hector J. MacLeod Building (MCLD)",
+        "floor": "4",
+        "room": "4018"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "CPEN 211",
+    "title": "Computing Systems I",
+    "term": 1,
+    "section": "CPEN 211-T1A",
+    "kind": "Discussion",
+    "delivery": "In Person Learning",
+    "instructor": "Guy Lemieux",
+    "credits": 5,
+    "patterns": [
+      {
+        "start": "2026-09-11",
+        "end": "2026-12-04",
+        "days": [
+          4
+        ],
+        "alternate": true,
+        "fromMin": 1020,
+        "toMin": 1080,
+        "building": "West Mall Swing Space Building (SWNG)",
+        "floor": "1",
+        "room": "121"
+      },
+      {
+        "start": "2026-09-11",
+        "end": "2026-12-04",
+        "days": [
+          4
+        ],
+        "alternate": true,
+        "fromMin": 1020,
+        "toMin": 1080,
+        "building": "West Mall Swing Space Building (SWNG)",
+        "floor": "1",
+        "room": "122"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "CPEN 221",
+    "title": "Software Construction I",
+    "term": 1,
+    "section": "CPEN 221-A_L1D",
+    "kind": "Laboratory",
+    "delivery": "In Person Learning",
+    "instructor": "Karthik Pattabiraman, Simon Oya",
+    "credits": 5,
+    "patterns": [
+      {
+        "start": "2026-09-09",
+        "end": "2026-12-02",
+        "days": [
+          2
+        ],
+        "alternate": false,
+        "fromMin": 900,
+        "toMin": 990,
+        "building": "Hector J. MacLeod Building (MCLD)",
+        "floor": "4",
+        "room": "4002"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "CPEN 221",
+    "title": "Software Construction I",
+    "term": 1,
+    "section": "CPEN 221-A_T1A",
+    "kind": "Discussion",
+    "delivery": "In Person Learning",
+    "instructor": "Karthik Pattabiraman, Simon Oya",
+    "credits": 5,
+    "patterns": [
+      {
+        "start": "2026-09-14",
+        "end": "2026-12-07",
+        "days": [
+          0
+        ],
+        "alternate": false,
+        "fromMin": 840,
+        "toMin": 960,
+        "building": "Earth Sciences Building (ESB)",
+        "floor": "1",
+        "room": "1013"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "CPEN 221",
+    "title": "Software Construction I",
+    "term": 1,
+    "section": "CPEN 221-A_101",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Karthik Pattabiraman, Simon Oya",
+    "credits": 5,
+    "patterns": [
+      {
+        "start": "2026-09-08",
+        "end": "2026-12-03",
+        "days": [
+          1,
+          3
+        ],
+        "alternate": false,
+        "fromMin": 660,
+        "toMin": 750,
+        "building": "Chemistry Building - B, C, D, E (CHEM)",
+        "floor": "-1",
+        "room": "B150"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "ELEC 201",
+    "title": "Circuit Analysis I",
+    "term": 2,
+    "section": "ELEC 201-201",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Luis Linares",
+    "credits": 4,
+    "patterns": [
+      {
+        "start": "2027-01-05",
+        "end": "2027-02-11",
+        "days": [
+          1,
+          3
+        ],
+        "alternate": false,
+        "fromMin": 930,
+        "toMin": 1050,
+        "building": "Hugh Dempster Pavilion (DMP)",
+        "floor": "3",
+        "room": "310"
+      },
+      {
+        "start": "2027-02-23",
+        "end": "2027-04-08",
+        "days": [
+          1,
+          3
+        ],
+        "alternate": false,
+        "fromMin": 930,
+        "toMin": 1050,
+        "building": "Hugh Dempster Pavilion (DMP)",
+        "floor": "3",
+        "room": "310"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "code": "ELEC 201",
+    "title": "Circuit Analysis I",
+    "term": 2,
+    "section": "ELEC 201-L2B",
+    "kind": "Laboratory",
+    "delivery": "In Person Learning",
+    "instructor": "Luis Linares",
+    "credits": 4,
+    "patterns": [
+      {
+        "start": "2027-01-05",
+        "end": "2027-02-02",
+        "days": [
+          1
+        ],
+        "alternate": true,
+        "fromMin": 660,
+        "toMin": 780,
+        "building": "Hector J. MacLeod Building (MCLD)",
+        "floor": "2",
+        "room": "2038"
+      },
+      {
+        "start": "2027-03-02",
+        "end": "2027-03-30",
+        "days": [
+          1
+        ],
+        "alternate": true,
+        "fromMin": 660,
+        "toMin": 780,
+        "building": "Hector J. MacLeod Building (MCLD)",
+        "floor": "2",
+        "room": "2038"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "ELEC 201",
+    "title": "Circuit Analysis I",
+    "term": 2,
+    "section": "ELEC 201-T2A",
+    "kind": "Discussion",
+    "delivery": "In Person Learning",
+    "instructor": "Luis Linares",
+    "credits": 4,
+    "patterns": [
+      {
+        "start": "2027-01-08",
+        "end": "2027-02-05",
+        "days": [
+          4
+        ],
+        "alternate": true,
+        "fromMin": 960,
+        "toMin": 1080,
+        "building": "Hugh Dempster Pavilion (DMP)",
+        "floor": "3",
+        "room": "310"
+      },
+      {
+        "start": "2027-03-05",
+        "end": "2027-04-02",
+        "days": [
+          4
+        ],
+        "alternate": true,
+        "fromMin": 960,
+        "toMin": 1080,
+        "building": "Hugh Dempster Pavilion (DMP)",
+        "floor": "3",
+        "room": "310"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "code": "CPEN 212",
+    "title": "Computing Systems II",
+    "term": 2,
+    "section": "CPEN 212-201",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Alexandra Fedorova, Prashant Nair",
+    "credits": 4,
+    "patterns": [
+      {
+        "start": "2027-01-05",
+        "end": "2027-02-11",
+        "days": [
+          1,
+          3
+        ],
+        "alternate": false,
+        "fromMin": 840,
+        "toMin": 930,
+        "building": "West Mall Swing Space Building (SWNG)",
+        "floor": "2",
+        "room": "222"
+      },
+      {
+        "start": "2027-02-23",
+        "end": "2027-04-08",
+        "days": [
+          1,
+          3
+        ],
+        "alternate": false,
+        "fromMin": 840,
+        "toMin": 930,
+        "building": "West Mall Swing Space Building (SWNG)",
+        "floor": "2",
+        "room": "222"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "CPEN 212",
+    "title": "Computing Systems II",
+    "term": 2,
+    "section": "CPEN 212-L2A",
+    "kind": "Laboratory",
+    "delivery": "In Person Learning",
+    "instructor": "Alexandra Fedorova, Prashant Nair",
+    "credits": 4,
+    "patterns": [
+      {
+        "start": "2027-01-11",
+        "end": "2027-02-08",
+        "days": [
+          0
+        ],
+        "alternate": false,
+        "fromMin": 840,
+        "toMin": 930,
+        "building": "Hector J. MacLeod Building (MCLD)",
+        "floor": "4",
+        "room": "4006"
+      },
+      {
+        "start": "2027-02-22",
+        "end": "2027-04-12",
+        "days": [
+          0
+        ],
+        "alternate": false,
+        "fromMin": 840,
+        "toMin": 930,
+        "building": "Hector J. MacLeod Building (MCLD)",
+        "floor": "4",
+        "room": "4006"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "code": "MATH 220",
+    "title": "Mathematical Proof",
+    "term": 1,
+    "section": "MATH 220-101",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Alexia Yavicoli",
+    "credits": 3,
+    "patterns": [
+      {
+        "start": "2026-09-08",
+        "end": "2026-12-03",
+        "days": [
+          1,
+          3
+        ],
+        "alternate": false,
+        "fromMin": 570,
+        "toMin": 660,
+        "building": "West Mall Swing Space Building (SWNG)",
+        "floor": "1",
+        "room": "121"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "MATH 255",
+    "title": "Ordinary Differential Equations",
+    "term": 2,
+    "section": "MATH 255-201",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Not listed",
+    "credits": 3,
+    "patterns": [
+      {
+        "start": "2027-01-06",
+        "end": "2027-02-12",
+        "days": [
+          0,
+          2,
+          4
+        ],
+        "alternate": false,
+        "fromMin": 600,
+        "toMin": 660,
+        "building": "The Leonard S. Klinck Building (LSK)",
+        "floor": "2",
+        "room": "201"
+      },
+      {
+        "start": "2027-02-22",
+        "end": "2027-04-12",
+        "days": [
+          0,
+          2,
+          4
+        ],
+        "alternate": false,
+        "fromMin": 600,
+        "toMin": 660,
+        "building": "The Leonard S. Klinck Building (LSK)",
+        "floor": "2",
+        "room": "201"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "code": "CPSC 221",
+    "title": "Basic Algorithms and Data Structures",
+    "term": 2,
+    "section": "CPSC 221-201",
+    "kind": "Lecture",
+    "delivery": "In Person Learning",
+    "instructor": "Geoffrey Tien",
+    "credits": 4,
+    "patterns": [
+      {
+        "start": "2027-01-06",
+        "end": "2027-02-12",
+        "days": [
+          0,
+          2,
+          4
+        ],
+        "alternate": false,
+        "fromMin": 780,
+        "toMin": 840,
+        "building": "The Leonard S. Klinck Building (LSK)",
+        "floor": "2",
+        "room": "200"
+      },
+      {
+        "start": "2027-02-22",
+        "end": "2027-04-12",
+        "days": [
+          0,
+          2,
+          4
+        ],
+        "alternate": false,
+        "fromMin": 780,
+        "toMin": 840,
+        "building": "The Leonard S. Klinck Building (LSK)",
+        "floor": "2",
+        "room": "200"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "code": "CPSC 221",
+    "title": "Basic Algorithms and Data Structures",
+    "term": 2,
+    "section": "CPSC 221-L2B",
+    "kind": "Laboratory",
+    "delivery": "In Person Learning",
+    "instructor": "Not listed",
+    "credits": 4,
+    "patterns": [
+      {
+        "start": "2027-01-06",
+        "end": "2027-02-10",
+        "days": [
+          2
+        ],
+        "alternate": false,
+        "fromMin": 840,
+        "toMin": 960,
+        "building": "West Mall Swing Space Building (SWNG)",
+        "floor": "1",
+        "room": "109"
+      },
+      {
+        "start": "2027-02-24",
+        "end": "2027-04-07",
+        "days": [
+          2
+        ],
+        "alternate": false,
+        "fromMin": 840,
+        "toMin": 960,
+        "building": "West Mall Swing Space Building (SWNG)",
+        "floor": "1",
+        "room": "109"
+      }
+    ]
+  }
+]
